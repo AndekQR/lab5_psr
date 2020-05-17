@@ -1,0 +1,11 @@
+serwisSamochodowy_firestore/src/main/resources/googleKey.json
+src
+LabMongoDB.pdf
+serwisSamochodowy_firestore/target
+serwisSamochodowy_firestore/.idea
+serwisSamochodowy_mongodb/.idea
+serwisSamochodowy_mongodb/target
+!serwisSamochodowy_firestore/src
+!serwisSamochodowy_mongodb/src
+serwisSamochodowy_firestore/serwisSamochodowy_firestore.iml
+serwisSamochodowy_mongodb/serwisSamochodowy_mongodb.iml
